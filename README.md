@@ -26,19 +26,20 @@ I build **AI systems, APIs, automation pipelines and intelligent tools**.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="90"/>
+<img src="https://skillicons.dev/icons?i=git" height="70"/>
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="90"/>
+<img src="https://cdn.simpleicons.org/github" height="70"/>
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/open-source/open-source.png" width="90"/>
+<img src="https://cdn.simpleicons.org/openai" height="70"/>
 
 </p>
 
 <p align="center">
 
-Pull Shark • Starstruck • Quickdraw
+Open Source • Git Mastery • Developer
 
 </p>
+
 
 ---
 
