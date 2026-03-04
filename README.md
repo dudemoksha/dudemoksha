@@ -1,71 +1,41 @@
 🚀 Moksha Sai
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Python+Developer;FastAPI+Backend+Developer;Data+Scientist;DSA+Problem+Solver;Automation+Builder;AI+Agent+Developer">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Python+Developer;FastAPI+Backend+Developer;Data+Scientist;DSA+Problem+Solver;Automation+Builder;AI+Agent+Developer"/>
 </p>---
 
 👨‍💻 About Me
 
-🚀 Passionate AI Engineer / Automation Builder / Backend Developer
+🚀 Passionate developer building AI systems, automation pipelines and backend APIs
 
-- 🧠 Solving DSA problems
-- ⚡ Building AI Agents
-- 🔗 Developing FastAPI APIs
-- 🤖 Creating Automation workflows using n8n
-- 📊 Working with Data Science & Machine Learning
-- 💻 Coding daily using VS Code
+💡 Areas I work in:
 
----
-
-🧠 Tech Stack
-
-💻 Languages
-
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"SQL" (https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
+- 🤖 AI Agents
+- ⚡ FastAPI backend systems
+- 📊 Data Science & Machine Learning
+- 🧠 Data Structures & Algorithms
+- 🔗 Automation using n8n
+- 🧩 Problem solving & scalable systems
 
 ---
 
-⚡ Backend & APIs
+🚀 Tech Stack
 
-"FastAPI" (https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-"REST API" (https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-
----
-
-🤖 AI / Data Science
-
-"Pandas" (https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-"NumPy" (https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-"Scikit Learn" (https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-
----
-
-🔗 Automation
-
-"n8n" (https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge)
-
----
-
-🛠 Tools
-
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-"GitHub" (https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github)
-"VS Code" (https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-
----
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,fastapi,mysql,git,github,vscode" />
+</p>---
 
 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dudemoksha&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudemoksha&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dudemoksha&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudemoksha&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>---
 
-🔥 GitHub Streak
+🔥 Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dudemoksha&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dudemoksha&theme=tokyonight&hide_border=true"/>
 </p>---
 
 📈 Contribution Graph
@@ -74,41 +44,36 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dudemoksha&theme=tokyo-night"/>
 </p>---
 
-🐍 Contribution Snake
+🧠 Current Focus
 
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-</p>---
+🔥 Building AI Agents
 
-🎯 Current Focus
+🔥 Developing FastAPI microservices
 
-🔥 AI Agents
-🔥 Automation Systems
-🔥 FastAPI Backend
-🔥 Data Science Projects
-🔥 Advanced DSA
+🔥 Automation systems using n8n
+
+🔥 Improving DSA & algorithmic thinking
 
 ---
 
-🚀 Domains I Work In
+🚀 Domains
 
 - Artificial Intelligence
 - Machine Learning
 - Data Science
 - Backend Development
-- API Development
-- Automation Systems
-- AI Agents
+- Automation Engineering
+- API Systems
 - Algorithmic Problem Solving
 
 ---
 
-👀 Profile Visitors
+👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=dudemoksha&label=Visitors&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=dudemoksha&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>---
 
 ⚡ Fun Fact
 
-💡 I love building intelligent systems that combine algorithms, data, and automation.
+💡 I enjoy building intelligent systems combining algorithms, data and automation.
