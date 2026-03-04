@@ -1,4 +1,4 @@
-🚀N Moksha Sai
+🚀 Moksha Sai
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=AI+Engineer;Python+Developer;FastAPI+Backend+Developer;Automation+Builder;Data+Science+Enthusiast;DSA+Problem+Solver;AI+Agent+Developer"/>
@@ -8,12 +8,12 @@
 
 🚀 Passionate AI Engineer / Backend Developer / Automation Builder
 
-I enjoy building AI systems, APIs, automation pipelines and intelligent tools.
+I build AI systems, APIs, automation pipelines and intelligent tools.
 
 🔥 Current Focus
 
 - 🤖 AI Agents
-- ⚡ FastAPI Microservices
+- ⚡ FastAPI Backend Systems
 - 📊 Data Science & Machine Learning
 - 🧠 Data Structures & Algorithms
 - 🔗 Automation using n8n
@@ -22,67 +22,33 @@ I enjoy building AI systems, APIs, automation pipelines and intelligent tools.
 
 🚀 Tech Stack
 
-💻 Programming
+<p align="center"><img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=fastapi" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=nodejs" /></p>---
 
-<p><img src="https://skillicons.dev/icons?i=python" width="40"/> Python
+📂 Featured Work
 
-<img src="https://skillicons.dev/icons?i=mysql" width="40"/> SQL
-
-</p>---
-
-⚙️ Backend
-
-<p><img src="https://skillicons.dev/icons?i=fastapi" width="40"/> FastAPI
-
-<img src="https://skillicons.dev/icons?i=nodejs" width="40"/> REST APIs
-
-</p>---
-
-📊 Data Science & ML
-
-<p><img src="https://skillicons.dev/icons?i=python" width="40"/> Pandas
-
-<img src="https://skillicons.dev/icons?i=python" width="40"/> NumPy
-
-<img src="https://skillicons.dev/icons?i=python" width="40"/> Scikit-Learn
-
-</p>---
-
-🔗 Automation
-
-<p><img src="https://skillicons.dev/icons?i=n8n" width="40"/> n8n
-
-</p>---
-
-🛠 Tools
-
-<p><img src="https://skillicons.dev/icons?i=git" width="40"/> Git
-
-<img src="https://skillicons.dev/icons?i=github" width="40"/> GitHub
-
-<img src="https://skillicons.dev/icons?i=vscode" width="40"/> VS Code
-
-</p>---
-
-📂 Featured Projects
-
-🚀 Projects I am working on
+🚀 Things I build
 
 - 🤖 AI Agent Systems
 - ⚡ FastAPI Backend APIs
-- 📊 Data Science Models
+- 📊 Data Science Projects
 - 🔗 Automation Workflows using n8n
-- 🧠 DSA Solutions
+- 🧠 DSA Problem Solutions
 
 ---
-
-📈 Contribution Graph
-
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=dudemoksha&theme=tokyo-night"/></p>---
 
 📊 Coding Activity
 
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudemoksha&theme=tokyonight"/></p>---
+
+📈 Contribution Graph
+
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=dudemoksha&theme=tokyo-night"/></p>---
 
 🌐 Domains
 
@@ -102,4 +68,4 @@ I enjoy building AI systems, APIs, automation pipelines and intelligent tools.
 
 ⚡ Fun Fact
 
-💡 I love building AI powered systems and automation tools that solve real world problems.
+💡 I enjoy building AI powered systems and automation tools that solve real world problems.
