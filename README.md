@@ -25,7 +25,19 @@ I build **AI systems, APIs, automation pipelines and intelligent tools**.
 ## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dudemoksha&theme=tokyonight&no-frame=true&row=1&column=3"/>
+
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="90"/>
+
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="90"/>
+
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/open-source/open-source.png" width="90"/>
+
+</p>
+
+<p align="center">
+
+Pull Shark • Starstruck • Quickdraw
+
 </p>
 
 ---
