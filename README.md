@@ -30,6 +30,12 @@ I build **AI systems, APIs, automation pipelines and intelligent tools**.
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
+<img src="https://img.shields.io/badge/Problems%20Solved-462-brightgreen?style=for-the-badge&logo=leetcode"/>
+
+<img src="https://img.shields.io/badge/Max%20Streak-98%20Days-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Active%20Days-135-green?style=for-the-badge"/>
+
 </p>
 
 <p align="center">
@@ -37,6 +43,19 @@ I build **AI systems, APIs, automation pipelines and intelligent tools**.
 <img src="https://leetcard.jacoblin.cool/mokshasai?theme=dark&font=Nunito&ext=heatmap"/>
 
 </p>
+
+## 🏅 LeetCode Badges
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/50%20Days%20Badge-LeetCode-green?style=for-the-badge&logo=leetcode"/>
+
+<img src="https://img.shields.io/badge/January%20Badge-LeetCode-blue?style=for-the-badge&logo=leetcode"/>
+
+<img src="https://img.shields.io/badge/February%20Badge-LeetCode-cyan?style=for-the-badge&logo=leetcode"/>
+
+</p>
+
 
 ---
 
