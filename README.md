@@ -22,10 +22,10 @@ I build **AI systems, APIs, automation pipelines and intelligent tools**.
 
 ---
 
-# 🏆 Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dudemoksha&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dudemoksha&theme=tokyonight&no-frame=true&row=1&column=3"/>
 </p>
 
 ---
