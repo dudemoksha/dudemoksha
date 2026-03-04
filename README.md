@@ -22,6 +22,23 @@ I build **AI systems, APIs, automation pipelines and intelligent tools**.
 
 ---
 
+# 🧠 LeetCode
+
+<p align="center">
+
+<a href="https://leetcode.com/u/mokshasai/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/mokshasai?theme=dark&font=Nunito&ext=heatmap"/>
+
+</p>
+
+---
 
 ## 🏆 Achievements
 
