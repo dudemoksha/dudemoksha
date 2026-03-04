@@ -22,21 +22,16 @@ I build **AI systems, APIs, automation pipelines and intelligent tools**.
 
 ---
 
-## 🏆 GitHub Achievements
+
+## 🏆 Achievements
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git" height="70"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=github"/>
 
-<img src="https://cdn.simpleicons.org/github" height="70"/>
+<img src="https://img.shields.io/badge/Git-Version%20Control-orange?style=for-the-badge&logo=git"/>
 
-<img src="https://cdn.simpleicons.org/openai" height="70"/>
-
-</p>
-
-<p align="center">
-
-Open Source • Git Mastery • Developer
+<img src="https://img.shields.io/badge/Automation-Developer-blue?style=for-the-badge&logo=github"/>
 
 </p>
 
